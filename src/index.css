@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+@theme{
+  --color-yt-black:#282828;
+  --color-yt-red :#FF0000;
+  --color-yt-white:#f7f7f7;
+
+  --font-inter:"Inter", serif;
+
+
+}

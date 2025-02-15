@@ -1,8 +1,25 @@
-# React + Vite
+# 🖼 Youtube Thumbnail Downloader
+This is a simple and efficient Youtube Thumbnail Downloader built using **React** and **Vite**, with **Tailwind CSS** for styling. It helps users download youtube thumbnails within few clicks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🛠️ Tech Stack
+- ⚡ **Vite** – Fast and lightweight build tool.
+- ⚛ **React** – Modern UI framework for a seamless experience.
+- 🎨 **Tailwind CSS** – Utility-first styling for a clean design.
+- 🔗 **lucide-react** – Lightweight and consistent icon library.
 
-Currently, two official plugins are available:
+## 🏗 Setup & Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1️⃣ Clone the repository
+```sh
+git clone https://github.com/your-username/expenso.git
+cd expenso
+```
+
+### 2️⃣ Install dependencies
+```sh
+npm install
+```
+### 3️⃣ Start the development server
+```sh
+npm run dev
+```

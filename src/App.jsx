@@ -8,11 +8,6 @@ function App() {
 
 
   return (
-    <>
-      hassa kiani hassam kiani waj
-    </>
-
-
     <div className="min-h-screen min-w-full bg-yt-black scroll-smooth ">
       <Header/>
       <ThumbnailDownloader/>
@@ -20,8 +15,6 @@ function App() {
       <About/>
       <Footer/>
     </div>
-
-    </>
   )
 }
 
